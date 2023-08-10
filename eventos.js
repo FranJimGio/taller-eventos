@@ -5,3 +5,6 @@ btn.addEventListener("click", function() {
 })
 
 
+boton.addEventListener("click", ()=>
+alert("Hola! Soy el div")
+)
